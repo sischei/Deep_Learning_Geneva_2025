@@ -27,7 +27,7 @@ implemented on a cloud computing infrastructure
 * Basic econometrics.
 * Basic programming in Python (see [this link to QuantEcon](https://python-programming.quantecon.org/intro.html) for a thorough introduction).
 * A brief Python refresher is provided [under this link](python_refresher).
-* A brief Python on Jupyter Notebooks is provided [under this link](python_refresher/jupyter_intro.ipynb) 
+* A brief Python on Jupyter Notebooks is provided [under this link](python_refresher/jupyter_intro.ipynb). 
 * Basic calculus and probability (The book [Mathematics for Machine learning](https://mml-book.github.io/) provides a good overview of skills participants are required to be fluent in). 
 
 
@@ -91,10 +91,10 @@ implemented on a cloud computing infrastructure
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 09:45 | [Introduction to the macroeconomics of climate change, and integrated assessment models](lectures/day5/slides/01_Intro_IAM.pdf) (45 min)
+09:00 - 09:45 | [Introduction to the macroeconomics of climate change, and integrated assessment models](lectures/day5/slides/01_Intro_IAM.pdf) 
 09:45 - 10:30 | [Solving dynamic stochastic, nonlinear, nonstationary models, with an application to Integrated Assessment Models](lectures/day5/slides/01_Intro_IAM.pdf)
 10:30 - 10:45 | Coffee Break
-12:15 - 13:00 | [Solving the (non-stationary) DICE model](lectures/day3/slides/02_b_CDICE_implementation.pdf) with [Deep Equilibrium Nets](lectures/day5/code/DEQN_for_IAMs) (45 min)
+12:15 - 13:00 | [Solving the (non-stationary) DICE model](lectures/day3/slides/02_b_CDICE_implementation.pdf) with [Deep Equilibrium Nets](lectures/day5/code/DEQN_for_IAMs) 
 12:30 - 13:30 | Lunch Break 
 13:30 - 15:00 | Putting things together: [Deep Uncertainty Quantification for stochastic integrated assessment models](lectures/day5/slides/03_Deep_UQ_IAM.pdf)
 15:00 - 15:15 | Coffee Break
