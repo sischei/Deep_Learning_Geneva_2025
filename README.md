@@ -70,6 +70,8 @@ implemented on a cloud computing infrastructure
 
 ### [Day 3](lectures/day3), Friday, February 28th, 2025 (Pavillon Mail PM03)
 
+ **Time** | **Main Topics** 
+------|------
 09:00 - 10:30 | [Surrogate models part I:](lectures/day3/slides/01_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [deep surrogate models](lectures/day2/readings/Deep_Surrogates.pdf)), with an example [DSGE model solved with DEQN and pseudo-states](lectures/day3/code/DEQN_production_code/stochastic_growth_pseudostates) 
 10:30 - 10:45 | Coffee Break
 10_45 - 12:15 | [Surrogate models part II:](lectures/day3/slides/02_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [Gaussian process regression](lectures/day2/readings/Machine_learning_dynamic_econ.pdf) 
