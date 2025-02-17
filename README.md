@@ -58,7 +58,7 @@ implemented on a cloud computing infrastructure
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | [A hands-on session on Deep Learning, Tensorflow, and Tensorboard](lectures/day1/code) 
+09:00 - 10:30 | A hands-on session on Deep Learning, [Tensorflow, Tensorboard](lectures/day1/code), and [PyTorch](lectures/day2/code) 
 10:30 - 10:45 | Coffee Break
 10:45 - 12:15 | [Introduction to Deep Equilibrium Nets (DEQN)](lectures/day1/slides/01_DeepEquilibriumNets.pdf) 
 12:15 - 13:30 | Lunch Break 
