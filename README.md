@@ -105,7 +105,7 @@ implemented on a cloud computing infrastructure
 ### [Day 6](lectures/day6), Thursday, March 27th, 2025 (Uni Dufour U365)
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | Introduction to Transformer (Generative AI in Economics and Finance)
+09:00 - 10:30 | Introduction to Transformers (Generative AI in Economics and Finance)
 10:30 - 10:45 | Coffee Break
 10:45 - 12:15 | Advanced Topics, Future Directions, and Course Wrap-up 
 
