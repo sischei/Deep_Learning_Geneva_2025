@@ -44,7 +44,7 @@ implemented on a cloud computing infrastructure
 
 ## Topics
 
-### Session 1 
+## Session 1 
 
 ### [Day 1](lectures/day1), Wednesday, February 26th, 2025 (Pavillon Mail PM03)
 
@@ -77,7 +77,7 @@ implemented on a cloud computing infrastructure
 10_45 - 12:15 | [Surrogate models part II:](lectures/day3/slides/02_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [Gaussian process regression](lectures/day2/readings/Machine_learning_dynamic_econ.pdf) 
 
 
-### Session 2
+## Session 2
 
 ### [Day 4](lectures/day4), Tuesday, March 25th, 2025 (Uni Dufour U364)
 
