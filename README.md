@@ -60,7 +60,7 @@ implemented on a cloud computing infrastructure
 ------|------
 09:00 - 10:30 | A hands-on session on Deep Learning, [Tensorflow, Tensorboard](lectures/day1/code), and [PyTorch](lectures/day2/code) 
 10:30 - 10:45 | Coffee Break
-10:45 - 12:15 | [Introduction to Deep Equilibrium Nets (DEQN)](lectures/day1/slides/01_DeepEquilibriumNets.pdf) 
+10:45 - 12:15 | [Introduction to Deep Equilibrium Nets (DEQN)](lectures/day2/slides/01_DeepEquilibriumNets.pdf) 
 12:15 - 13:30 | Lunch Break 
 13:30 - 14:15 | Hands-on: Solving a dynamic model with [DEQNs](lectures/day2/code/02_Brook_Mirman_1972_DEQN.ipynb) 
 14:15 - 15:00 | Hands-on: Solving a dynamic stochastic model with [DEQNs](lectures/day2/code/02_Brock_Mirman_Uncertainty_DEQN.ipynb) 
@@ -72,9 +72,9 @@ implemented on a cloud computing infrastructure
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | [Surrogate models part I:](lectures/day3/slides/01_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [deep surrogate models](lectures/day2/readings/Deep_Surrogates.pdf)), with an example [DSGE model solved with DEQN and pseudo-states](lectures/day3/code/DEQN_production_code/stochastic_growth_pseudostates) 
+09:00 - 10:30 | [Surrogate models part I:](lectures/day3/slides/01_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [deep surrogate models](lectures/day3/readings/Deep_Surrogates.pdf)), with an example [DSGE model solved with DEQN and pseudo-states](lectures/day3/code/DEQN_production_code/stochastic_growth_pseudostates) 
 10:30 - 10:45 | Coffee Break
-10_45 - 12:15 | [Surrogate models part II:](lectures/day3/slides/02_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [Gaussian process regression](lectures/day2/readings/Machine_learning_dynamic_econ.pdf) 
+10_45 - 12:15 | [Surrogate models part II:](lectures/day3/slides/01_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [Gaussian process regression](lectures/day3/readings/Machine_learning_dynamic_econ.pdf) 
 
 
 ## Session 2
@@ -83,29 +83,31 @@ implemented on a cloud computing infrastructure
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | Bayesian Active Learning and GPs for Surrogate Models
+09:00 - 09:30 | Recap of Session 1
+09:30 - 10:30 | [Bayesian Active Learning and GPs for Surrogate Models](lectures/day4/slides/01_Surrogates_GPs_part2.pdf)
 10:30 - 10:45 | Coffee Break
-10:45 - 12:15 | [Creating GP-based surrogates from DSGE models](lectures/day4/code/DEQN_production_code) 
+10:45 - 11:30 | [Creating GP-based surrogates from DSGE models](lectures/day4/code/DEQN_production_code) 
+11:30 - 12:15 | [Gaussian Process Regression in Finance: From Dynamic Incentive Models to Portfolio Optimization (if time permits)](lectures/day4/slides/02_GPs_for_Dynamic_Models.pdf) 
 
 ### [Day 5](lectures/day5), Wednesday, March 26th, 2025 (Uni Dufour, Salle 408)
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 09:45 | [Introduction to the macroeconomics of climate change, and integrated assessment models](lectures/day5/slides/01_Intro_IAM.pdf) 
-09:45 - 10:30 | [Solving dynamic stochastic, nonlinear, nonstationary models, with an application to Integrated Assessment Models](lectures/day5/slides/01_Intro_IAM.pdf)
+09:00 - 09:45 | [Introduction to the macroeconomics of climate change, and integrated assessment models](lectures/day5/slides/01_Macroeconomics_of_climate_change.pdf) 
+09:45 - 10:30 | [Solving dynamic stochastic, nonlinear, nonstationary models, with an application to Integrated Assessment Models](lectures/day5/slides/02_The_climate_DICE.pdf)
 10:30 - 10:45 | Coffee Break
-12:15 - 13:00 | [Solving the (non-stationary) DICE model](lectures/day3/slides/02_b_CDICE_implementation.pdf) with [Deep Equilibrium Nets](lectures/day5/code/DEQN_for_IAMs) 
+12:15 - 13:00 | [Solving the (non-stationary) DICE model](lectures/day5/slides/02_The_climate_DICE.pdf) with [Deep Equilibrium Nets](lectures/day5/code/DEQN_for_IAMs) 
 12:30 - 13:30 | Lunch Break 
 13:30 - 15:00 | Putting things together: [Deep Uncertainty Quantification for stochastic integrated assessment models](lectures/day5/slides/03_Deep_UQ_IAM.pdf)
 15:00 - 15:15 | Coffee Break
-15:15 - 16:45 | Modeling Sequence Data with RNNs, LSTMs, and Transformers
+15:15 - 16:45 | [Modeling Sequence Data with RNNs, LSTMs](lectures/day5/slides/04_RNN_LSTM.pdf)
 
 ### [Day 6](lectures/day6), Thursday, March 27th, 2025 (Uni Dufour U365)
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | Introduction to Generative AI in Economics and Finance
+09:00 - 10:30 | Introduction to Transformer (Generative AI in Economics and Finance)
 10:30 - 10:45 | Coffee Break
-10:45 - 12:15 | Course Wrap-up and Future Directions
+10:45 - 12:15 | Advanced Topics, Future Directions, and Course Wrap-up 
 
 
 ### Teaching philosophy
