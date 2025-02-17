@@ -1,10 +1,10 @@
-# Deep Learning for Economics and Finance (February 26 -- 28 & March 25 -- 27, 2025)
+# Deep Learning for Economics and Finance (February 26 - 28 & March 25 - 27, 2025)
 
 This is an mini-course on "Deep Learning for Economics and Finance". 
 Its hels in two sessions:
 
-* Session 1: Wednesday, February 26th -- Friday, February 28th, 2025
-* Session 2: Tuesday, March 25th -- Thursday, March 27th, 2025
+* Session 1: Wednesday, February 26th - Friday, February 28th, 2025
+* Session 2: Tuesday, March 25th - Thursday, March 27th, 2025
 
 
 ## Purpose of the lectures
