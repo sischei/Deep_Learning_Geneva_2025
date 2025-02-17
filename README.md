@@ -50,58 +50,60 @@ implemented on a cloud computing infrastructure
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | [Introduction to Machine Learning and Deep Learning (part I)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) (2 x 45 min)
+09:00 - 10:30 | [Introduction to Machine Learning and Deep Learning (part I)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
 10:30 - 10:45 | Coffee Break
-10:45 - 12:15 | [Introduction to Machine Learning and Deep Learning (part II)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) (2 x 45 min)
-
+10:45 - 12:15 | [Introduction to Machine Learning and Deep Learning (part II)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
 
 ### [Day 2](lectures/day2), Thursday, February 27th, 2025 (Pavillon Mail PM03)
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | [A hands-on session on Deep Learning, Tensorflow, and Tensorboard](lectures/day1/code) (2 x 45 min)
+09:00 - 10:30 | [A hands-on session on Deep Learning, Tensorflow, and Tensorboard](lectures/day1/code) 
 10:30 - 10:45 | Coffee Break
-10:45 - 12:15 | [Introduction to Deep Equilibrium Nets (DEQN)](lectures/day1/slides/01_DeepEquilibriumNets.pdf) (2 x 45 min)
+10:45 - 12:15 | [Introduction to Deep Equilibrium Nets (DEQN)](lectures/day1/slides/01_DeepEquilibriumNets.pdf) 
 12:15 - 13:30 | Lunch Break 
-13:30 - 14:15 | Hands-on: Solving a dynamic model with [DEQNs](lectures/day2/code/02_Brook_Mirman_1972_DEQN.ipynb) (45 min)
-14:15 - 15:00 | Hands-on: Solving a dynamic stochastic model with [DEQNs](lectures/day2/code/02_Brock_Mirman_Uncertainty_DEQN.ipynb) (45 min)
+13:30 - 14:15 | Hands-on: Solving a dynamic model with [DEQNs](lectures/day2/code/02_Brook_Mirman_1972_DEQN.ipynb) 
+14:15 - 15:00 | Hands-on: Solving a dynamic stochastic model with [DEQNs](lectures/day2/code/02_Brock_Mirman_Uncertainty_DEQN.ipynb) 
 15:00 - 15:15 | Coffee Break
-15:15 - 16:00 | Exercise: Solving a dynamic stochastic model by [example](lectures/day2/code/03_DEQN_Exercises_Blancs.ipynb) (45 min)
-16:00 - 16:45 | [Introduction to a tuned DEQN library](lectures/day2/code/DEQN_production_code): [solving a stochastic dynamic OLG model with an analytical solution](lectures/day2/slides/02_OLG_with_analytical_solution_model.pdf) (45 min)
-
+15:15 - 16:00 | Exercise: Solving a dynamic stochastic model by [example](lectures/day2/code/03_DEQN_Exercises_Blancs.ipynb) 
+16:00 - 16:45 | [Introduction to a tuned DEQN library](lectures/day2/code/DEQN_production_code): [solving a stochastic dynamic OLG model with an analytical solution](lectures/day2/slides/02_OLG_with_analytical_solution_model.pdf) 
 
 ### [Day 3](lectures/day3), Friday, February 28th, 2025 (Pavillon Mail PM03)
 
-09:00 - 10:30 | [Surrogate models part I:](lectures/day3/slides/01_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [deep surrogate models](lectures/day2/readings/Deep_Surrogates.pdf)), with an example [DSGE model solved with DEQN and pseudo-states](lectures/day3/code/DEQN_production_code/stochastic_growth_pseudostates) (45 min)
+09:00 - 10:30 | [Surrogate models part I:](lectures/day3/slides/01_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [deep surrogate models](lectures/day2/readings/Deep_Surrogates.pdf)), with an example [DSGE model solved with DEQN and pseudo-states](lectures/day3/code/DEQN_production_code/stochastic_growth_pseudostates) 
 10:30 - 10:45 | Coffee Break
-10_45 - 12:15 | [Surrogate models part II:](lectures/day3/slides/02_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [Gaussian process regression](lectures/day2/readings/Machine_learning_dynamic_econ.pdf) (60 min)
-
-
-
-
- **Time** | **Main Topics** 
-------|------
-09:00 - 10:00 | [Surrogate models part II:](lectures/day2/slides/03_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [Gaussian process regression](lectures/day2/readings/Machine_learning_dynamic_econ.pdf) (60 min)
-10:00 - 10:30 | [Creating GP-based surrogates from DSGE models](lectures/day3/code/DEQN_production_code) (30 min)
-10:30 - 11:00 | Coffee Break
-11:30 - 12:15 | [Introduction to the macroeconomics of climate change, and integrated assessment models](lectures/day3/slides/01_Intro_IAM.pdf) (45 min)
-12:15 - 13:00 | [Solving the (non-stationary) DICE model](lectures/day3/slides/02_b_CDICE_implementation.pdf) with [Deep Equilibrium Nets](lectures/day3/code/DEQN_for_IAMs) (45 min)
-12:30 - 14:00 | Lunch Break 
-14:00 - 15:30 | Putting things together: [Deep Uncertainty Quantification for stochastic integrated assessment models](lectures/day3/slides/03_Deep_UQ_IAM.pdf); wrap-up of course (2 x 45 min)
+10_45 - 12:15 | [Surrogate models part II:](lectures/day3/slides/02_Surrogate_models.pdf) (for structural estimation and uncertainty quantification via [Gaussian process regression](lectures/day2/readings/Machine_learning_dynamic_econ.pdf) 
 
 
 ### Session 2
 
-### [Day 4](lectures/day4), Friday, May 24th, 2024
+### [Day 4](lectures/day4), Tuesday, March 25th, 2025 (Uni Dufour U364)
 
+ **Time** | **Main Topics** 
+------|------
+09:00 - 10:30 | Bayesian Active Learning and GPs for Surrogate Models
+10:30 - 10:45 | Coffee Break
+10:45 - 12:15 | [Creating GP-based surrogates from DSGE models](lectures/day4/code/DEQN_production_code) 
 
+### [Day 5](lectures/day5), Wednesday, March 26th, 2025 (Uni Dufour, Salle 408)
 
-### [Day 5](lectures/day5), Friday, May 24th, 2024
+ **Time** | **Main Topics** 
+------|------
+09:00 - 09:45 | [Introduction to the macroeconomics of climate change, and integrated assessment models](lectures/day5/slides/01_Intro_IAM.pdf) (45 min)
+09:45 - 10:30 | [Solving dynamic stochastic, nonlinear, nonstationary models, with an application to Integrated Assessment Models](lectures/day5/slides/01_Intro_IAM.pdf)
+10:30 - 10:45 | Coffee Break
+12:15 - 13:00 | [Solving the (non-stationary) DICE model](lectures/day3/slides/02_b_CDICE_implementation.pdf) with [Deep Equilibrium Nets](lectures/day5/code/DEQN_for_IAMs) (45 min)
+12:30 - 13:30 | Lunch Break 
+13:30 - 15:00 | Putting things together: [Deep Uncertainty Quantification for stochastic integrated assessment models](lectures/day5/slides/03_Deep_UQ_IAM.pdf)
+15:00 - 15:15 | Coffee Break
+15:15 - 16:45 | Modeling Sequence Data with RNNs, LSTMs, and Transformers
 
-
-
-### [Day 6](lectures/day6), Friday, May 24th, 2024
-
+### [Day 6](lectures/day6), Thursday, March 27th, 2025 (Uni Dufour U365)
+ **Time** | **Main Topics** 
+------|------
+09:00 - 10:30 | Introduction to Generative AI in Economics and Finance
+10:30 - 10:45 | Coffee Break
+10:45 - 12:15 | Course Wrap-up and Future Directions
 
 
 ### Teaching philosophy
