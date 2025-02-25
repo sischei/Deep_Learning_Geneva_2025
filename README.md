@@ -52,7 +52,8 @@ implemented on a cloud computing infrastructure
 ------|------
 09:00 - 10:30 | [Introduction to Machine Learning and Deep Learning (part I)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
 10:30 - 10:45 | Coffee Break
-10:45 - 12:15 | [Introduction to Machine Learning and Deep Learning (part II)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
+10:45 - 11:45 | [Introduction to Machine Learning and Deep Learning (part II)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
+11:45 - 12:15 | [Python refresher, and basics on the Cloud infrastructure](python_refresher) 
 
 ### [Day 2](lectures/day2), Thursday, February 27th, 2025 (Pavillon Mail PM03)
 
