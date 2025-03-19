@@ -102,7 +102,7 @@ implemented on a cloud computing infrastructure
 12:30 - 13:30 | Lunch Break 
 13:30 - 15:00 | Putting things together: [Deep Uncertainty Quantification for stochastic integrated assessment models](lectures/day5/slides/03_Deep_UQ_IAM.pdf)
 15:00 - 15:15 | Coffee Break
-15:15 - 16:45 | [Solving PDEs with Partial Differential Equations with NNs (PINNs) (I)]](lectures/day5/slides/04_RNN_LSTM.pdf)
+15:15 - 16:45 | [Solving PDEs with Partial Differential Equations with NNs (PINNs) (I)](lectures/day5/slides/04_RNN_LSTM.pdf)
 
 ### [Day 6](lectures/day6), Thursday, March 27th, 2025 (Uni Dufour U365)
  **Time** | **Main Topics** 
