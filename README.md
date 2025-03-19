@@ -98,7 +98,7 @@ implemented on a cloud computing infrastructure
 10:30 - 10:45 | Coffee Break
 12:15 - 13:00 | [Solving the (non-stationary) DICE model](lectures/day5/slides/02_The_climate_DICE.pdf) with [Deep Equilibrium Nets](lectures/day5/code/DEQN_for_IAMs) 
 12:30 - 13:30 | Lunch Break 
-13:30 - 15:00 | Putting things together: [Deep Uncertainty Quantification for stochastic integrated assessment models](lectures/day5/slides/03_Deep_UQ_IAM.pdf)
+13:30 - 15:00 | Putting things together: [Deep Uncertainty Quantification for stochastic integrated assessment models](lectures/day5/slides/03_Deep_UQ_CDICE.pdf)
 15:00 - 15:15 | Coffee Break
 15:15 - 16:45 | [Solving PDEs with Partial Differential Equations with NNs (PINNs) (I)](lectures/day5/slides/04_PINNs_lecture.pdf)
 
