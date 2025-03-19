@@ -89,8 +89,6 @@ implemented on a cloud computing infrastructure
 11:30 - 12:00 | [Creating GP-based surrogates from DSGE models](lectures/day4/code/DEQN_production_code) 
 12:00 - 12:15 | [Gaussian Process Regression in Finance: From Dynamic Incentive Models to Portfolio Optimization (if time permits)](lectures/day4/slides/02_GPs_for_Dynamic_Models.pdf) 
 
-[Bayesian Active Learning and GPs for Surrogate Models](lectures/day4/slides/01_Surrogates_GPs_part2.pdf)
-
 ### [Day 5](lectures/day5), Wednesday, March 26th, 2025 (Uni Dufour, Salle 408)
 
  **Time** | **Main Topics** 
@@ -107,9 +105,10 @@ implemented on a cloud computing infrastructure
 ### [Day 6](lectures/day6), Thursday, March 27th, 2025 (Uni Dufour U365)
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | [Solving PDEs with PINNs (II)]
+09:00 - 10:30 | [Solving PDEs with PINNs (II)](lectures/day5/slides/04_RNN_LSTM.pdf)
 10:30 - 10:45 | Coffee Break
-10:45 - 12:15 | [Modeling Sequence Data with RNNs, LSTMs](lectures/day5/slides/04_RNN_LSTM.pdf)Advanced Topics, Future Directions, and Course Wrap-up 
+10:45 - 12:00 | [Modeling Sequence Data with RNNs, LSTMs](lectures/day5/slides/04_RNN_LSTM.pdf)Advanced Topics, Future Directions, and Course Wrap-up 
+12:00 - 12:15 | Wrap-up of the Course 
 
 
 ### Teaching philosophy
