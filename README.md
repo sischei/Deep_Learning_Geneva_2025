@@ -85,7 +85,8 @@ implemented on a cloud computing infrastructure
 ------|------
 09:00 - 10:30 | Recap of Session 1 ([Neural Networks](lectures/day4/slides/01_recap_week1_NN.pdf), [DEQN](lectures/day4/slides/01_recap_week1_DEQN.pdf), [Surrogate Models](lectures/day4/slides/01_recap_week1_Surrogate_GP.pdf), [Gaussian Processes](lectures/day4/slides/01_recap_week1_Surrogate_GP.pdf))
 10:30 - 10:45 | Coffee Break
-10:45 - 11:30 | [Bayesian Active Learning and GPs for Surrogate Models](lectures/day4/slides/01_Surrogates_GPs_part2.pdf)
+10:45 - 11:15 | [Exercises](lectures/day4/exercises/surrogate_exercise.pdf)
+10:15 - 11:30 | [Bayesian Active Learning and GPs for Surrogate Models](lectures/day4/slides/01_Surrogates_GPs_part2.pdf)
 11:30 - 12:00 | [Creating GP-based surrogates from DSGE models](lectures/day4/code/DEQN_production_code) 
 12:00 - 12:15 | [Gaussian Process Regression in Finance: From Dynamic Incentive Models to Portfolio Optimization (if time permits)](lectures/day4/slides/02_GPs_for_Dynamic_Models.pdf) 
 
@@ -100,7 +101,8 @@ implemented on a cloud computing infrastructure
 12:30 - 13:30 | Lunch Break 
 13:30 - 15:00 | Putting things together: [Deep Uncertainty Quantification for stochastic integrated assessment models](lectures/day5/slides/03_Deep_UQ_CDICE.pdf)
 15:00 - 15:15 | Coffee Break
-15:15 - 16:45 | [Solving PDEs with Partial Differential Equations with NNs (PINNs) (I)](lectures/day5/slides/04_PINNs_lecture.pdf)
+15:15 - 16:00 | [Solving PDEs with Partial Differential Equations with NNs (PINNs) (I)](lectures/day5/slides/04_PINNs_lecture.pdf)
+16:00 - 16:45 | [PINNs Exercises](lectures/day5/exercise/PINNs_exercise.pdf)
 
 ### [Day 6](lectures/day6), Thursday, March 27th, 2025 (Uni Dufour U365)
  **Time** | **Main Topics** 
