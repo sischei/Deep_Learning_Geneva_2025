@@ -109,7 +109,8 @@ implemented on a cloud computing infrastructure
 ------|------
 09:00 - 10:30 | [Solving PDEs with PINNs (II)](lectures/day5/slides/04_PINNs_lecture.pdf)
 10:30 - 10:45 | Coffee Break
-10:45 - 12:00 | [Modeling Sequence Data with RNNs, LSTMs](lectures/day6/slides/04_RNN_LSTM.pdf)
+10:45 - 11:30 | [Modeling Sequence Data with RNNs, LSTMs](lectures/day6/slides/04_RNN_LSTM.pdf)
+11:30 - 12:00 | [LSTM Tutorial (if time permits)](lectures/day6/code/01_LSTM_tutorial.ipynb)
 12:00 - 12:15 | Wrap-up of the Course 
 
 
