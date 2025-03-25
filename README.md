@@ -83,10 +83,10 @@ implemented on a cloud computing infrastructure
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | Recap of Session 1 ([Neural Networks](lectures/day4/slides/01_recap_week1_NN.pdf), [DEQN](lectures/day4/slides/01_recap_week1_DEQN.pdf), [Surrogate Models](lectures/day4/slides/01_recap_week1_Surrogate_GP.pdf), [Gaussian Processes](lectures/day4/slides/01_recap_week1_Surrogate_GP.pdf))
+09:00 - 10:30 | Recap of Session 1 ([Neural Networks](lectures/day4/slides/01_recap_week1_NN.pdf), [DEQN](lectures/day4/slides/02_recap_week1_DEQN.pdf), [Surrogate Models](lectures/day4/slides/03_recap_week1_Surrogate_GP.pdf), [Gaussian Processes](lectures/day4/slides/03_recap_week1_Surrogate_GP.pdf))
 10:30 - 10:45 | Coffee Break
 10:45 - 11:15 | [Exercises](lectures/day4/exercises/surrogate_exercise.pdf)
-10:15 - 11:30 | [Bayesian Active Learning and GPs for Surrogate Models](lectures/day4/slides/01_Surrogates_GPs_part2.pdf)
+10:15 - 11:30 | [Bayesian Active Learning and GPs for Surrogate Models](lectures/day4/slides/04_Surrogates_GPs_part2.pdf)
 11:30 - 12:00 | [Creating GP-based surrogates from DSGE models](lectures/day4/code/DEQN_production_code) 
 12:00 - 12:15 | [Gaussian Process Regression in Finance: From Dynamic Incentive Models to Portfolio Optimization (if time permits)](lectures/day4/slides/02_GPs_for_Dynamic_Models.pdf) 
 
