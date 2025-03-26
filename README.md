@@ -107,10 +107,11 @@ implemented on a cloud computing infrastructure
 ### [Day 6](lectures/day6), Thursday, March 27th, 2025 (Uni Dufour U365)
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:30 | [Solving PDEs with PINNs (II)](lectures/day5/slides/04_PINNs_lecture.pdf)
+09:00 - 09:30 | [Recap on Solving PDEs with PINNs](lectures/day6/slides/01_Recap_PINNs_surrogate_lecture.pdf), [example 1](lectures/day6/slides/01_Pinns_recap.ipynb), and [[example 2](lectures/day6/slides/02_PINN_BS.ipynb)
+09:00 - 10:30 | [Solving PDEs with PINNs (II): HJB](lectures/day5/slides/04_PINNs_lecture.pdf), and [examples](lectures/day5/code/06a_HJB_discrete_control.ipynb) 
 10:30 - 10:45 | Coffee Break
-10:45 - 11:30 | [Modeling Sequence Data with RNNs, LSTMs](lectures/day6/slides/04_RNN_LSTM.pdf)
-11:30 - 12:00 | [LSTM Tutorial (if time permits)](lectures/day6/code/01_LSTM_tutorial.ipynb)
+10:45 - 11:30 | [Modeling Sequence Data with RNNs, LSTMs](lectures/day6/slides/02_RNN_LSTM.pdf)
+11:30 - 12:00 | [LSTM Tutorial (if time permits)](lectures/day6/code/02_LSTM_tutorial.ipynb)
 12:00 - 12:15 | Wrap-up of the Course 
 
 
