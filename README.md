@@ -14,7 +14,7 @@ introduces recent advancements in applied mathematics, machine learning, computa
 science, and the computational economics literature. The course focuses on solving and
 estimating dynamic stochastic economic models, performing parametric uncertainty quantification, solving continuous-time models (PDEs), and modeling sequence data using recurrent neural networks, LSTMs.
 * The lectures will concentrate on machine learning methodologies, including Deep Neural
-Networks, Gaussian Processes, advanced architectures like RNNs, PNNs, and LSTMs. These methods will be explored through applications in
+Networks, Gaussian Processes, Physics-informed Neural Nets, advanced architectures like RNNs (LSTM)s. These methods will be explored through applications in
 macroeconomics, finance, and climate-change economics.
 * The format of the lectures will be interactive and workshop-like, combining theoretical
 discussions with hands-on coding exercises. The coding will be conducted in Python and
